@@ -6,58 +6,72 @@
   <img src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true" width="60%" alt="DeepSeek-V3" />
 </div>
 <hr>
-<div align="center" style="line-height: 1;">
-  <a href="https://www.deepseek.com/" target="_blank" style="margin: 2px;">
-    <img alt="Homepage" src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://chat.deepseek.com/" target="_blank" style="margin: 2px;">
-    <img alt="Chat" src="https://img.shields.io/badge/🤖%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://huggingface.co/deepseek-ai" target="_blank" style="margin: 2px;">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-</div>
-
-<div align="center" style="line-height: 1;">
-  <a href="https://discord.gg/Tc7c45Zzu5" target="_blank" style="margin: 2px;">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-DeepSeek%20AI-7289da?logo=discord&logoColor=white&color=7289da" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/qr.jpeg?raw=true" target="_blank" style="margin: 2px;">
-    <img alt="Wechat" src="https://img.shields.io/badge/WeChat-DeepSeek%20AI-brightgreen?logo=wechat&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://twitter.com/deepseek_ai" target="_blank" style="margin: 2px;">
-    <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-deepseek_ai-white?logo=x&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-</div>
-
-<div align="center" style="line-height: 1;">
-  <a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/LICENSE-CODE" style="margin: 2px;">
-    <img alt="Code License" src="https://img.shields.io/badge/Code_License-MIT-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/LICENSE-MODEL" style="margin: 2px;">
-    <img alt="Model License" src="https://img.shields.io/badge/Model_License-Model_Agreement-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-</div>
 
 
-<p align="center">
-  <a href="DeepSeek_V3.pdf"><b>Paper Link</b>👁️</a>
-</p>
+# DeepSeek Français Chat Gratuit en Ligne  
+
+## [DeepSeek Français Chat Gratuit en Ligne](https://www.deepseekfr.org/)
 
 
-## 1. Introduction
+### Qu'est-ce que DeepSeek AI ?  
 
-We present DeepSeek-V3, a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token. 
-To achieve efficient inference and cost-effective training, DeepSeek-V3 adopts Multi-head Latent Attention (MLA) and DeepSeekMoE architectures, which were thoroughly validated in DeepSeek-V2. 
-Furthermore, DeepSeek-V3 pioneers an auxiliary-loss-free strategy for load balancing and sets a multi-token prediction training objective for stronger performance. 
-We pre-train DeepSeek-V3 on 14.8 trillion diverse and high-quality tokens, followed by Supervised Fine-Tuning and Reinforcement Learning stages to fully harness its capabilities. 
-Comprehensive evaluations reveal that DeepSeek-V3 outperforms other open-source models and achieves performance comparable to leading closed-source models.
-Despite its excellent performance, DeepSeek-V3 requires only 2.788M H800 GPU hours for its full training.
-In addition, its training process is remarkably stable. 
-Throughout the entire training process, we did not experience any irrecoverable loss spikes or perform any rollbacks. 
-<p align="center">
-  <img width="80%" src="figures/benchmark.png">
-</p>
+**DeepSeek AI** est une **IA chinoise** avancée permettant des conversations fluides et naturelles en plusieurs langues, y compris le **français**. Conçu comme une alternative à **ChatGPT en français**, il offre des fonctionnalités variées telles que la **traduction anglais-français**, la rédaction et le codage.  
+
+### Comment utiliser DeepSeek AI en français ?  
+
+Utiliser **DeepSeek en français gratuit** est simple :  
+
+1. **Accédez au site officiel** : [DeepSeek AI](https://www.deepseekfr.org/)  
+2. **Tapez votre question** dans la boîte de dialogue.  
+3. **Recevez une réponse instantanée** générée par l'IA.  
+4. **Explorez les fonctionnalités** : traduction, rédaction, assistance IA.  
+
+### Pourquoi DeepSeek AI est-il populaire ?  
+
+- **100 % gratuit**, contrairement à d'autres IA payantes.  
+- **Multilingue**, avec prise en charge du **français, anglais, chinois** et plus.  
+- **Idéal pour la traduction** (**anglais-français, arabe-français**).  
+- **Qualité de réponse comparable à ChatGPT en français**.  
+- **Utile pour le codage et la rédaction assistée**.  
+
+## [DeepSeek Français Chat Gratuit en Ligne](https://www.deepseekfr.org/)
+
+### Modèles de DeepSeek AI  
+
+| Modèle                  | Paramètres | Fonctionnalités principales                    |  
+|-------------------------|------------|-----------------------------------------------|  
+| **DeepSeek Base**       | 10B        | Réponses rapides pour un usage général.       |  
+| **DeepSeek Pro**        | 65B        | Précision améliorée et meilleure contextualisation. |  
+| **DeepSeek Traduction** | 20B        | Optimisé pour la **traduction anglais-français** et autres langues. |  
+
+### Conseils et astuces pour utiliser DeepSeek AI  
+
+- **Soyez précis dans vos requêtes** pour de meilleures réponses.  
+- **Utilisez DeepSeek traduction** pour la **traduction anglais-français et arabe-français**.  
+- **Testez différentes requêtes** : écriture, programmation, assistance IA.  
+- **Expérimentez l’IA pour vos études ou projets professionnels**.  
+
+### FAQ  
+
+#### 1. DeepSeek en français est-il totalement gratuit ?  
+Oui, **DeepSeek en français gratuit** ne nécessite aucun abonnement.  
+
+#### 2. Peut-on utiliser DeepSeek IA pour la traduction ?  
+Oui, **DeepSeek traduction** prend en charge **anglais-français, arabe-français**, et plus encore.  
+
+#### 3. Comment télécharger DeepSeek ?  
+Pour l’instant, **DeepSeek AI** est uniquement accessible en ligne.  
+
+#### 4. DeepSeek est-il une alternative à **ChatGPT en français** ?  
+Oui, **DeepSeek AI en français** est une alternative gratuite à **ChatGPT français**.  
+
+#### 5. Peut-on utiliser DeepSeek pour coder ?  
+Oui, **DeepSeek AI** aide au développement et à la programmation.  
+
+Testez **DeepSeek Français Chat Gratuit en Ligne** dès aujourd’hui !  
+
+## [DeepSeek Français Chat Gratuit en Ligne](https://www.deepseekfr.org/)
+
 
 ## 2. Model Summary
 
